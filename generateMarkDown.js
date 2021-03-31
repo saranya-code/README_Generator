@@ -15,7 +15,7 @@ function generateMarkdown (answer){
     ## Installation \n
     ${answer.installation}
 
-`
+`;
 
     fs.writeFileSync('README.md', createdMarkDown, (err)=> err && console.log(err))
 
