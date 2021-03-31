@@ -1,8 +1,7 @@
 let fs = require('fs');
 
 function generateMarkdown (answer){
-    const createdMarkDown = `
-    # ${answer.title}\n
+    const createdMarkDown = `# ${answer.title}\n
     ## Description\n
     ${answer.description}\n
     ## Table of content\n
@@ -13,9 +12,7 @@ function generateMarkdown (answer){
     5.[Run the test](#test) \n
     6.[Questions](#email) \n
     ## Installation \n
-    ${answer.installation}
-
-`;
+    ${answer.installation}`;
 
     fs.writeFileSync('README.md', createdMarkDown, (err)=> err && console.log(err))
 
