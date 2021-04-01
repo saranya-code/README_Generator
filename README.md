@@ -1,11 +1,11 @@
-# README_GENERATOR
+# README GENERATOR
 
 ![node](https://badge.fury.io/js/node.svg)
 ![javascript](https://img.shields.io/badge/Javascript-100%25-yellowgreen)
 ![node](https://img.shields.io/badge/npm-100%25-orange)
 ## Description
 
-    Creating a README Generator using commandline Creating a README Generator using commandline Creating a README Generator using commandline Creating a README Generator using commandline 
+Creating a README file using commandline Creating a README file using commandline Creating a README file using commandline Creating a README file using commandline. 
 
 ## Table of content
 
@@ -40,9 +40,9 @@
  
 ### Questions 
       
-### If you have any questions feel free to contact me [saranya-code](https://github.com/saranya-code) on my Email saranyadayalan28@gmail.com 
+* If you have any questions feel free to contact me [saranya-code](https://github.com/saranya-code) or Email me saranyadayalan28@gmail.com 
  
-### You can also look my [Repository](https://github.com/saranya-code/README_Generator) 
+* You can also look my [Repository](https://github.com/saranya-code/README_Generator) 
 
 ### Screenshot 
 
