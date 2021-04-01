@@ -34,7 +34,8 @@ ${answer.description} \n
 * If you have any questions feel free to contact me [${answer.gitHubUserName}](https://github.com/${answer.gitHubUserName}) or Email me ${answer.gitHubId} \n 
 * You can also look my [Repository](https://github.com/${answer.gitHubUserName}/${answer.gitHubRepositoryName}) \n
 ### Screenshot \n
-![Webpage Screenshot ](./screenshot/readme_questions.png?raw=true)`;
+![Webpage Screenshot ](./screenshot/readme_questions.png?raw=true)
+![Webpage Screenshot ](./screenshot/readme.png?raw=true)`;
 
 
 fs.writeFileSync('README.md', createdMarkDown, (err)=> err && console.log(err))

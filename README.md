@@ -5,7 +5,7 @@
 ![node](https://img.shields.io/badge/npm-100%25-orange)
 ## Description
 
-Creating a README file using commandline Creating a README file using commandline Creating a README file using commandline Creating a README file using commandline. 
+Creating a README Generator using commandline Creating a README Generator using commandline Creating a README Generator using commandline Creating a README Generator using commandline. 
 
 ## Table of content
 
@@ -36,7 +36,7 @@ Creating a README file using commandline Creating a README file using commandlin
 
 ### Tests 
 
-    npm run test
+    node run test
  
 ### Questions 
       
@@ -47,3 +47,4 @@ Creating a README file using commandline Creating a README file using commandlin
 ### Screenshot 
 
 ![Webpage Screenshot ](./screenshot/readme_questions.png?raw=true)
+![Webpage Screenshot ](./screenshot/readme.png?raw=true)
