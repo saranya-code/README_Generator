@@ -1,11 +1,11 @@
-# README GENERATOR
+# Readme generator
 
 ![node](https://badge.fury.io/js/node.svg)
 ![javascript](https://img.shields.io/badge/Javascript-100%25-yellowgreen)
 ![node](https://img.shields.io/badge/npm-100%25-orange)
 ## Description
 
-Creating a README Generator using commandline Creating a README Generator using commandline Creating a README Generator using commandline Creating a README Generator using commandline. 
+Read me generatorRead me generatorRead me generatorRead me generatorRead me generatorRead me generatorRead me generatorRead me generator 
 
 ## Table of content
 
@@ -17,7 +17,7 @@ Creating a README Generator using commandline Creating a README Generator using 
 6. [Questions](#Questions) 
 
 ### Installation 
-    npm init 
+    npm install 
 
 ### Usage 
 
@@ -25,7 +25,7 @@ Creating a README Generator using commandline Creating a README Generator using 
 
 ### Lisence 
 
-    MIT,ISC,GPL 
+    ISC,GPL 
 
 ### Contribution 
  
@@ -36,7 +36,7 @@ Creating a README Generator using commandline Creating a README Generator using 
 
 ### Tests 
 
-    node run test
+    npm run test
  
 ### Questions 
       
@@ -48,3 +48,7 @@ Creating a README Generator using commandline Creating a README Generator using 
 
 ![Webpage Screenshot ](./screenshot/readme_questions.png?raw=true)
 ![Webpage Screenshot ](./screenshot/readme.png?raw=true)
+
+### Demo
+
+![Webpage Screenshot ](./screenshot/readmegenerator.gif?raw=true)
